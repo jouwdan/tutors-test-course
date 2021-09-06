@@ -23,7 +23,7 @@ iconset:
     icon: fluent:video-clip-24-filled
     colour: error
   video:
-    icon: fluent:video-clip-24-regular
+    icon: fluent:video-clip-24-filled
     colour: error
   zoom:
     icon: fluent:video-24-filled
