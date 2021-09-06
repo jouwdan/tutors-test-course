@@ -11,7 +11,7 @@ iconset:
     icon: fluent:hat-graduation-24-filled
     colour: warning
   github:
-    icon: fluent:code-circle-24-filled
+    icon: fluent:code-circle-20-filled
     colour: warning    
   programHome:
     icon: fluent:home-24-filled
