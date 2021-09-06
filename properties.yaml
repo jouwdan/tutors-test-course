@@ -1,114 +1,114 @@
 slack: https://tutors-ts-group.slack.com/messages/CCKS0HR0Q
 moodle: https://moodle.wit.ie/course/view.php?id=118143&section=3
 youtube: https://www.youtube.com/playlist?list=PLMW4bgOfD3Dwi6FWirJ3AQtXZ-N_hV3Eo
-credits: Your Name Here, WIT
+credits: Jordan Harrison, WIT
 ignorepin : 4321
 ignore:
   - topic-06-next
 
 iconset:
   moodle:
-    icon: fa-solid:graduation-cap
+    icon: fluent:hat-graduation-24-filled
     colour: warning
   github:
-    icon: logos:github-octocat
+    icon: fluent:code-circle-24-filled
     colour: warning    
-  # programHome:
-  #   icon: heroicons-outline:home
-  #   colour: success
-  # slack:
-  #   icon: grommet-icons:slack
-  #   colour: error
-  # youtube:
-  #   icon: logos:youtube-icon
-  #   colour: error
-  # video:
-  #   icon: heroicons-outline:play
-  #   colour: error
-  # zoom:
-  #   icon: grommet-icons:zoom
-  #   colour: info
-  # course:
-  #   icon: heroicons-outline:book-open
-  #   colour: info
-  # topic:
-  #   icon: heroicons-outline:view-boards
-  #   colour: info
-  # unit:
-  #   icon: heroicons-outline:collection
-  #   colour: success
-  # talk:
-  #   icon: heroicons-outline:presentation-chart-bar
-  #   colour: info
-  # reference:
-  #   icon: heroicons-outline:document-duplicate
-  #   colour: warning
-  # lab:
-  #   icon: heroicons-outline:beaker
-  #   colour: success
-  # archive:
-  #   icon: heroicons-outline:archive
-  #   colour: info
-  # web:
-  #   icon: heroicons-outline:bookmark
-  #   colour: info
-  # github:
-  #   icon: heroicons-outline:terminal
-  #   colour: warning
-  # panelvideo:
-  #   icon: heroicons-outline:play
-  #   colour: error
-  # left:
-  #   icon: heroicons-outline:arrow-left
-  #   colour: success
-  # right:
-  #   icon: heroicons-outline:arrow-right
-  #   colour: success
-  # print:
-  #   icon: heroicons-outline:printer
-  #   colour: success
-  # rotate:
-  #   icon: heroicons-outline:refresh
-  #   colour: success
-  # download:
-  #   icon: heroicons-outline:arrow-down
-  #   colour: success
-  # fullScreen:
-  #   icon: heroicons-outline:arrows-expand
-  #   colour: success
-  # expand:
-  #   icon: heroicons-outline:switch-horizontal
-  #   colour: success
-  # tutorsTime:
-  #   icon: heroicons-outline:clock
-  #   colour: info
-  # timeExport:
-  #   icon: heroicons-outline:save-as
-  #   colour: success
-  # live:
-  #   icon: heroicons-outline:users
-  #   colour: success
-  # search:
-  #   icon: heroicons-outline:search
-  #   colour: info
-  # tutors:
-  #   icon: fa-solid:chalkboard-teacher
-  #   colour: white
-  # logout:
-  #   icon: heroicons-outline:logout
-  #   colour: error
-  # dark:
-  #   icon: heroicons-outline:moon
-  #   colour: warning
-  # toc:
-  #   icon: heroicons-outline:menu-alt-2
-  #   colour: white
-  # compacted:
-  #   icon: heroicons-outline:dots-vertical
-  #   colour: white
-  # expanded:
-  #   icon: heroicons-outline:dots-horizontal
-  #   colour: white
-  # default:
-  #   icon: heroicons-outline:dots-vertical
-  #   colour: white
+   programHome:
+     icon: fluent:home-24-filled
+     colour: success
+   slack:
+     icon: fluent:chat-24-filled
+     colour: error
+   youtube:
+     icon: fluent:video-clip-24-filled
+     colour: error
+   video:
+     icon: fluent:video-clip-24-regular
+     colour: error
+   zoom:
+     icon: fluent:video-24-filled
+     colour: info
+   course:
+     icon: fluent:notebook-24-filled
+     colour: info
+   topic:
+     icon: fluent:bookmark-24-filled
+     colour: info
+   unit:
+     icon: fluent:dual-screen-group-24-filled
+     colour: success
+   talk:
+     icon: fluent:presenter-24-filled
+     colour: info
+   reference:
+     icon: fluent:document-copy-24-filled
+     colour: warning
+   lab:
+     icon: fluent:beaker-24-regular
+     colour: success
+   archive:
+     icon: fluent:archive-24-filled
+     colour: info
+   web:
+     icon: fluent:bookmark-24-regular
+     colour: info
+   github:
+     icon: fluent:code-24-filled
+     colour: warning
+   panelvideo:
+     icon: fluent:video-clip-24-regular
+     colour: error
+   left:
+     icon: fluent:ios-arrow-left-24-filled
+     colour: success
+   right:
+     icon: fluent:ios-arrow-right-24-filled
+     colour: success
+   print:
+     icon: fluent:print-24-filled
+     colour: success
+   rotate:
+     icon: fluent:arrow-rotate-clockwise-24-filled
+     colour: success
+   download:
+     icon: fluent:arrow-download-24-filled
+     colour: success
+   fullScreen:
+     icon: fluent:arrow-expand-24-filled
+     colour: success
+   expand:
+     icon: fluent:expand-up-right-24-filled
+     colour: success
+   tutorsTime:
+     icon: fluent:clock-alarm-24-filled
+     colour: info
+   timeExport:
+     icon: fluent:save-arrow-right-24-filled
+     colour: success
+   live:
+     icon: fluent:people-community-24-filled
+     colour: success
+   search:
+     icon: fluent:search-24-filled
+     colour: info
+   tutors:
+     icon: fa-solid:chalkboard-teacher
+    # colour: white
+   logout:
+     icon: fluent:sign-out-24-filled
+     colour: error
+   dark:
+     icon: fluent:dark-theme-24-filled
+     colour: warning
+   toc:
+     icon: fluent:line-horizontal-3-20-filled
+    # colour: white
+   compacted:
+     icon: fluent:re-order-dots-vertical-24-filled
+    # colour: white
+   expanded:
+     icon: fluent:re-order-dots-horizontal-24-filled
+    # colour: white
+   default:
+     icon: fluent:re-order-dots-vertical-24-filled
+    # colour: white
