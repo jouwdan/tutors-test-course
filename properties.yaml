@@ -44,7 +44,7 @@ iconset:
     icon: fluent:document-copy-24-filled
     colour: warning
   lab:
-    icon: fluent:beaker-24-regular
+    icon: fluent:beaker-24-filled
     colour: success
   archive:
     icon: fluent:archive-24-filled
